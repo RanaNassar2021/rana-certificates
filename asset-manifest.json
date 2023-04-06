@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rana-certificates/static/css/main.e6c13ad2.css",
-    "main.js": "/rana-certificates/static/js/main.6c9afc50.js",
+    "main.js": "/rana-certificates/static/js/main.a4c43ccc.js",
     "static/js/787.37e2ab88.chunk.js": "/rana-certificates/static/js/787.37e2ab88.chunk.js",
     "index.html": "/rana-certificates/index.html",
     "main.e6c13ad2.css.map": "/rana-certificates/static/css/main.e6c13ad2.css.map",
-    "main.6c9afc50.js.map": "/rana-certificates/static/js/main.6c9afc50.js.map",
+    "main.a4c43ccc.js.map": "/rana-certificates/static/js/main.a4c43ccc.js.map",
     "787.37e2ab88.chunk.js.map": "/rana-certificates/static/js/787.37e2ab88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6c9afc50.js"
+    "static/js/main.a4c43ccc.js"
   ]
 }
