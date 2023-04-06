@@ -2,19 +2,19 @@
 
 import { Card, CardImg } from 'react-bootstrap';
 
-const Data = [{id: 1, title: 'ride the waves.', image: 'https://i.ibb.co/4YMZFVj/meta.jpg'},
- {id: 2, title: 'tread the unknown.', image: 'https://i.ibb.co/VCpcP6W/michigan-certificate.jpg'},
-  {id: 3, title: 'climb the highest.', image: 'https://i.ibb.co/6ghCVG3/css-depth.jpg'},
-   {id: 4, title: 'escape.', image: 'https://i.ibb.co/bdnTJGM/ux-desing.jpg'},
-   {id: 5, title: 'escape.', image: 'https://i.ibb.co/94HqxXh/React-basics.jpg'},
-   {id: 6, title: 'escape.', image: 'https://i.ibb.co/tLm1P2F/advanced-react.jpg'},
-   {id: 7, title: 'escape.', image: 'https://i.ibb.co/3fKbdwD/version-control.jpg'},
-   {id: 8, title: 'escape.', image: 'https://i.ibb.co/ynxYdV5/javascript.jpg'},
-   {id: 9, title: 'escape.', image: 'https://i.ibb.co/1RDnT42/m-html.jpg'},
-   {id: 10, title: 'escape.', image: 'https://i.ibb.co/t4SrHt5/m-css.jpg'},
-   {id: 11, title: 'escape.', image: 'https://i.ibb.co/jgWVD6S/m-advanced-styling.jpg'},
-   {id: 12, title: 'escape.', image: 'https://i.ibb.co/QDNJpZX/m-javascript.jpg'},
-   {id: 13, title: 'escape.', image: 'https://i.ibb.co/WzdSgSN/Capture2.png'},
+const Data = [{id: 1, title: 'Meta fron-end developer', image: 'https://i.ibb.co/4YMZFVj/meta.jpg'},
+ {id: 2, title: 'Basics of web development & coding', image: 'https://i.ibb.co/VCpcP6W/michigan-certificate.jpg'},
+  {id: 3, title: 'HTML & CSS in depth', image: 'https://i.ibb.co/6ghCVG3/css-depth.jpg'},
+   {id: 4, title: 'Principles of UI/UX design', image: 'https://i.ibb.co/bdnTJGM/ux-desing.jpg'},
+   {id: 5, title: 'React Basics', image: 'https://i.ibb.co/94HqxXh/React-basics.jpg'},
+   {id: 6, title: 'Advanced React', image: 'https://i.ibb.co/tLm1P2F/advanced-react.jpg'},
+   {id: 7, title: 'Version control', image: 'https://i.ibb.co/3fKbdwD/version-control.jpg'},
+   {id: 8, title: 'Programming with javascript', image: 'https://i.ibb.co/ynxYdV5/javascript.jpg'},
+   {id: 9, title: 'HTML5', image: 'https://i.ibb.co/1RDnT42/m-html.jpg'},
+   {id: 10, title: 'CSS3', image: 'https://i.ibb.co/t4SrHt5/m-css.jpg'},
+   {id: 11, title: 'Advanced styling with responsive designs', image: 'https://i.ibb.co/jgWVD6S/m-advanced-styling.jpg'},
+   {id: 12, title: 'Interactivity with javascript', image: 'https://i.ibb.co/QDNJpZX/m-javascript.jpg'},
+   {id: 13, title: '', image: 'https://i.ibb.co/WzdSgSN/Capture2.png'},
   ]
 
 
